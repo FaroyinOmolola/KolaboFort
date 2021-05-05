@@ -42,9 +42,9 @@
 		</nav>
 		<div class="header-image">
 				<div>
-				<h1>Your plug to a safe and successful transaction.</h1> <h3>Build trust with us and maximise opportunities safely and legally.</h3>
-				<p class="header-image-link"><a href="https://api.whatsapp.com/send?phone=07018144992">Get Started</a></p>
-			</div>
+					<video autoplay muted="true" width="100%"> <source src="video/top video.mp4" type="video/mp4"></video>
+				</div>
+				 <div class="header-image-link"><a href="https://api.whatsapp.com/send?phone=07018144992">Start here</a></div>
 		</div>
 		<div class="benefits">
 			<div class="styled-header main-header">
@@ -58,8 +58,8 @@
 				<li>Avoid being SCAMMED, SHAMED or BULLIED during transactions</li>
 				<li>Build TRUST with new prospects.</li>
 				<li>Get valued EXPERTS that are available on demand.</li>
-				<li>Prevent DISPUTE that may occcur during transactions</li>
 				<li>Save and make more MONEY</li>
+				<li>Prevent DISPUTE that may occcur during transactions</li>
 				<li>Get meaningful market INSIGHT</li>
 				<!-- <li>Affordable SERVICE</li> -->
 				<li>Assert CREDIBILITY and SINCERITY</li>
@@ -80,7 +80,7 @@
 			<div class="services-top">
 					<div class="text">
 						<p> Escrow is a contractual agreement in which a third party or escrow agent (here, KolaboFort) receives and disburses money or property for the primary transacting parties, with the disbursement dependent on the condition agreed to by the transacting parties.</p>
-						 <h3> Take calculated risk with us today. Protect your transactions, ensure terms are met and funds are safe! <br><br>How does this work?
+						 <h3> Take calculated risk with us today. Protect your transactions, ensure terms are met and funds are safe!</h3><h3>How does this work?
 						 </h3>
 					</div>
 			</div>
@@ -117,7 +117,7 @@
 			<div class="services-top">
 				<div class="text">
 					<p> Pooling is a resource management practice, a method of grouping together resources (assets, equipments, personnel, effort e.t.c.) for the purpose of maximizing advantages and minimizing risk to the users. </p>
-					 <h3> Share cost and value amongst people of like interest today and Save 10 - 40%. <br><br>Join or create a buying club with us for your particular interest by following this steps
+					 <h3> Share cost and value amongst people of like interest today and Save 10 - 40%.</h3><h3>Join or create a buying club with us for your particular interest by following these steps
 					 </h3>
 					</div>
 				</div>
@@ -155,7 +155,7 @@
 			<div class="services-top">
 				<div class="text">
 				<p> We hire experienced hands ON-DEMAND to do specific task for you, with 24/7 support to achieve those goals you've always fantasized but find it difficult to endure the process.  </p>
-				 <h3> Get ready workers in your area to assist in basic administrative duties, business writings, running errands, cleaning, repairs, basic handyman’s work and others. <br><br>To engage this service? Follow the steps below</h3>
+				 <h3> Get ready workers in your area to assist in basic administrative duties, business writings, running errands, cleaning, repairs, basic handyman’s work and others.</h3> <h3>To engage this service? Follow the steps below</h3>
 				</div>
 			</div>
 			<div class="illustrations">
@@ -190,7 +190,7 @@
 			<div class="services-top">
 				<div class="text">
 					<p> Get  specific trade data analysis, market conditions and opportunities. Along with Nigerian specific tariff, products standard, certification requirement, and trade agreement information. 
-	 				<h3> Do not limit yourself. Just ask us if something is possible, even a last-minute request.<br> <br>To engage this service. Send us a message today</h3>
+	 				<h3> Do not limit yourself. Just ask us if something is possible, even a last-minute request.</h3><h3>To engage this service. Send us a message today</h3>
 					</p>
 				</div>
 			</div>
